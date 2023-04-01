@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/dashboard/Service/style.css"],"names":[],"mappings":"AAAA,kCACI,YACJ","file":"33.bb006915.chunk.css","sourcesContent":["#root .ant-pagination:first-child {\r\n    display: none;\r\n}"]}
